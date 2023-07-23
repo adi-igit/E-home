@@ -1,4 +1,7 @@
+export const dynamic = 'force-dynamic'
+
 import prisma from "@/app/libs/prismadb";
+
 
 export interface IListingsParams {
   userId?: string;
