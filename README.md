@@ -4,7 +4,7 @@
 
 Welcome to E-home, an innovative project developed with Next.js that transforms your real estate experience into a digital adventure. E-home provides a platform to explore, discover, and manage properties for sale or rent, all from the comfort of your screen.
 
-## 🏡 Features
+## Features
 
 - **Property Listings**: Explore a diverse range of properties, from cozy apartments to luxurious estates.
 
@@ -16,7 +16,7 @@ Welcome to E-home, an innovative project developed with Next.js that transforms 
 
 - **User Profiles**: Create a personalized profile to save your favorite listings and manage your property portfolio.
 
-- ## 🚀 Getting Started
+- ## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -46,23 +46,23 @@ Welcome to E-home, an innovative project developed with Next.js that transforms 
 
 6. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to experience the power of E-home!
 
-## 🏘️ Technologies Used
+## Technologies Used
 
 * **Next.js**: A versatile React framework for server-rendered applications, providing fast and dynamic user experiences.
 * **Tailwind CSS**: A utility-first CSS framework for crafting stylish and responsive UIs.
 * **MongoDB**: A NoSQL database for efficient storage and retrieval of property data.
 
-## 🏢 Contributing
+## Feedback and Contributions
 
 Elevate E-home even further and contribute to the future of online real estate! Here's how you can be part of the journey:
 
 * [**Open an issue**](https://github.com/adi-igit/E-home/issues) for suggestions, bug reports, or new features.
 * Fork the repository and submit a pull request to add your enhancements to the E-home experience.
 
-## 📜 License
+## License
 
 E-home is released under the [**MIT License**](https://github.com/adi-igit/E-home/blob/main/LICENSE.md). Get ready to rise above challenges and shape your path to success!
 
 Embark on a digital real estate adventure with E-home, a dynamic Next.js application. Discover properties, explore listings, and redefine the way you experience real estate.
 
-Happy house hunting! 🏠🏙️
+Happy house hunting! 
